@@ -1,1 +1,1 @@
-# Bot-detection-using-cursor-movements
+# Humanoid detection using mouse cursor movements
